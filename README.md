@@ -1,2 +1,2 @@
 # lobodewallstreet
-Promosite de promoção
+Promosite de promoção do evento
